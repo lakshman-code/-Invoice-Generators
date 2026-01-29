@@ -175,9 +175,6 @@ This project is part of PRISTONIX TECHNOLOGIES PRIVATE LIMITED's internal tools.
 
 ## Support 📧
 
-For questions or issues, please contact:
-- Email: [Your email address]
-- Phone: 7984321437
 
 ---
 
