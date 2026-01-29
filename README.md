@@ -171,11 +171,6 @@ Potential features for future development:
 
 ## License 📄
 
-This project is part of PRISTONIX TECHNOLOGIES PRIVATE LIMITED's internal tools.
-
-## Support 📧
-
-
----
+This project is part of laksh2006 internal tools.
 
 **Built with ❤️ using Streamlit**
